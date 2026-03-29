@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a final-year B.E. Computer Science & Enginee
 
 ## About Me
 🎓 Specializing in AI and ML, with hands-on experience in data analysis and generative AI.
-💻 Currently exploring full-stack Python development with frameworks like Flask and Django.
+💻 Currently exploring full-stack Python development and Data structures.
 🌱 Always learning—actively engaged in SAP’s Code Unnati (Advanced AI & Competitive Coding) program.
 💡 Soft skills: Problem-solving, teamwork, and adaptability.
 
